@@ -1,0 +1,113 @@
+Vale, aqui tenemos los 25 componentes que queremos transformar en plantillas para VueJS. 
+Ahora lo que quiero es que me vayas dando las plantillas una a una hasta llegar a la ultima de la lista
+Puedes ir dandomelas, yo te dire "continua" hasta que llegues al final.
+Por favor, numeralas en el codigo usando un comentario en el inicio, por ejemplo:
+//Plantilla 28/100 Pie de página VueJS
+//Plantilla 29/100 Tarjetas de perfil de usuario VueJS
+
+Me gustaria crear una coleccion completa de plantillas de vueJS para facilitar y aumentar la velocidad de desarrollo en VueJS. Para la plantilla necesito que me des el titulo comentado en la primera linea. 
+
+Quiero que me des la siguiente plantilla Pie de página*
+
+Me gustaria crear una coleccion completa de plantillas de vueJS para facilitar y aumentar la velocidad de desarrollo en VueJS. Para la plantilla necesito que me des el titulo comentado en la primera linea. 
+
+Quiero que me des la siguiente plantilla Tarjetas de perfil de usuario*
+
+Botones
+Iconos
+Alertas
+Formularios
+Inputs de texto
+Selectores de opciones *
+Campos de fecha
+Botones de radio
+Botones de chequeo
+Tablas
+Gráficos
+Mapas
+Carousels
+Sliders
+Menús de navegación
+Barra de búsqueda
+Paginación
+Tarjetas de contenido *
+Modal
+Ventanas emergentes
+Menús desplegables
+Barras de progreso
+Etiquetas
+Chips
+Calendarios*
+Barra lateral 
+Encabezado de página
+Formularios de inicio de sesión
+Formularios de registro
+Formularios de recuperación de contraseña
+Popovers
+Menús contextuales
+Barras de herramientas
+Tabs
+Acordeones
+Modalidades de advertencia
+Barra de herramientas de edición de texto
+Barras de desplazamiento personalizadas
+Contenido desplegable
+Listas de navegación
+Áreas de caída
+Paneles de configuración
+Grillas de contenido
+Listas de precios
+Comentarios de usuarios
+Tablas de clasificación
+Estrellas de valoración
+Secciones de preguntas frecuentes
+Menús de contexto flotantes
+Tarjetas de producto
+Listas de productos
+Pestañas de productos relacionados
+Pestañas de contenido relacionado
+Botones de acción flotante
+Gráficos de línea
+Gráficos de barras
+Gráficos de pastel
+Gráficos de áreas
+Gráficos de burbujas
+Gráficos de radar
+Gráficos de dispersión
+Gráficos de embudo
+Gráficos de histograma
+Formularios de pago
+Detalles de envío
+Menús de selección de idioma
+Menús de selección de país
+Menús de selección de moneda
+Comentarios de redes sociales
+Secciones de testimonios
+Bloques de citas
+Secciones de noticias
+Barras de navegación de tipo hamburguesa
+Pestañas de navegación
+Secciones de preguntas y respuestas frecuentes
+Tablas de especificaciones de producto
+Lista de tareas pendientes
+Formulario de búsqueda avanzada
+Formulario de registro de usuario
+Formulario de edición de perfil de usuario
+Barra de búsqueda con autocompletado
+Mapa de calor
+Contenido multimedia: video, imagen y audio
+Secciones de precios y planes
+Contadores animados
+Barra de búsqueda para filtrar contenido
+Sección de integraciones
+Listas de servicios *
+Sección de equipos y empleados
+Calificación de estrellas para reseñas
+Gráficos de velas japonesas
+Gráficos de torta de datos financieros
+Gráficos de líneas de tendencia financiera
+Tablas de estadísticas financieras
+Sección de recursos adicionales
+Sección de preguntas frecuentes para clientes
+Sección de suscripción a boletines de noticias
+Tablas de comparación de características de producto
